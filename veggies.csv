@@ -1,0 +1,51 @@
+Name,Monday_w1,Calories Monday_w1,Tuesday_w1,Calories Tuesday_w1,Wednesday_w1,Calories Wednesday_w1,Thursday_w1,Calories Thursday_w1,Friday_w1,Calories Friday_w1,Saturday_w1,Calories Saturday_w1,Sunday_w1,Calories Sunday_w1,Monday_w2,Calories Monday_w2,Tuesday_w2,Calories Tuesday_w2,Wednesday_w2,Calories Wednesday_w2,Thursday_w2,Calories Thursday_w2,Friday_w2,Calories Friday_w2,Saturday_w2,Calories Saturday_w2,Sunday_w2,Calories Sunday_w2,Age,Weight,Height,Gender,Calories 
+Farooq,Bottlegourd,15,Tomato,18,Potatoes,77,Broccoli,34,Spinach,87,Corn,86,Cauliflower,25,Okra,33,Carrot,41,Olives,120,Onion,40,Garlic,149,Mint,70,Cabbage,25,23,65,163,M,2200
+Hassan,Potatoes,77,Bottlegourd,15,Carrot,41,Spinach,87,Radish,16,Okra,33,Chickpeas,364,Broccoli,34,Corn,86,Tomato,18,Indian squash,81,Coriander,23,Garlic,149,Corn,86,18,64,175,M,2200
+Usman,Tomato,18,Onion,40,Spinach,87,Potatoes,77,Cauliflower,25,Radish,16,Carrot,41,Spinach,87,Broccoli,34,Potatoes,77,Cabbage,25,Radish,16,Zucchini,25,Bottlegourd,15,20,68,164,M,2200
+Hamza,Broccoli,34,Cauliflower,25,Bottlegourd,15,Okra,33,Potatoes,77,Tomato,18,Spinach,87,Coriander,23,Olives,120,Mint,70,Radish,16,Peas,81,Eggplant,25,Indian squash,81,24,66,171,M,2200
+Omair,Cauliflower,25,Corn,86,Okra,33,Bottlegourd,15,Olives,120,Spinach,87,Radish,16,Ginger,80,Frenchbeans,31,Bottlegourd,15,Lemon,29,Bellpepper,26,Cabbage,25,Tomato,18,25,81,162,M,2200
+Moosa,Chickpeas,364,Broccoli,34,Radish,16,Cauliflower,25,Carrot,41,Potatoes,77,Tomato,18,Radish,16,Lemon,29,Cabbage,25,Radish,16,Potatoes,77,Coriander,23,Frenchbeans,31,22,90,173,M,2200
+Faraz,Okra,33,Potatoes,77,Tomato,18,Radish,16,Chickpeas,364,Carrot,41,Bottlegourd,15,Broccoli,34,Peas,81,Lemon,29,Potatoes,77,Onion,40,Ginger,80,Ginger,80,19,87,164,M,2200
+Abdul Hadi,Broccoli,34,Spinach,87,Bottlegourd,15,Tomato,18,Radish,16,Okra,33,Potatoes,77,Carrot,41,Bellpepper,26,Eggplant,25,Garlic,149,Chickpeas,364,Spinach,87,Cabbage,25,20,74,175,M,2200
+Waleed,Potatoes,77,Peas,81,Radish,16,Zucchini,25,Coriander,23,Eggplant,25,Broccoli,34,Radish,16,Chickpeas,364,Mint,70,Potatoes,77,Peas,81,Lemon,29,Eggplant,25,19,77,168,M,2200
+Taha,Cabbage,25,Coriander,23,Tomato,18,Potatoes,77,Coriander,23,Okra,33,Zucchini,25,Lemon,29,Zucchini,25,Bottlegourd,15,Frenchbeans,31,Radish,16,Green onion,32,Spinach,87,22,80,178,M,2200
+Fiza,Mint,70,Indian squash,81,Coriander,23,Broccoli,34,Potatoes,77,Garlic,149,Cabbage,25,Radish,16,Okra,33,Radish,16,Eggplant,31,Bottlegourd,15,Onion,40,Chickpeas,364,24,81,169,F,2000
+Laiba,Okra,33,Onion,40,Potatoes,77,Zucchini,25,Eggplant,25,Broccoli,34,Peas,81,Bellpepper,26,Tomato,18,Broccoli,34,Ginger,80,Potatoes,77,Carrot,41,Bellpepper,26,20,82,170,F,2000
+Usama ,Bottlegourd,15,Mint,70,Peas,81,Green onion,32,Coriander,23,Cabbage,25,Frenchbeans,31,Corn,86,Mint,70,Radish,16,Green onion,32,Peas,81,Chickpeas,364,Broccoli,34,23,74,161,M,2200
+Zoha,Zucchini,17,Frenchbeans,31,Eggplant,25,Coriander,23,Indian squash,81,Potatoes,77,Mint,70,Spinach,87,Radish,16,Eggplant,25,Olives,120,Chickpeas,364,Garlic,149,Radish,16,21,69,175,F,2000
+Fatima ,Bottlegourd,15,Cabbage,25,Onion,40,Peas,81,Green onion,32,Broccoli,34,Radish,16,Green onion,32,Chickpeas,364,Onion,40,Cabbage,25,Green onion,32,Bellpepper,26,Indian squash,81,24,57,190,F,2000
+Zain,Peas,81,Green onion,32,Coriander,23,Frenchbeans,31,Potatoes,77,Eggplant,25,Garlic,149,Coriander,23,Tomato,18,Ginger,80,Radish,16,Cabbage,25,Potatoes,77,Garlic,149,19,44,164,M,2200
+Zohair,Garlic,149,Radish,16,Peas,81,Potatoes,77,Tomato,18,Green onion,32,Coriander,23,Indian squash,81,Radish,16,Broccoli,34,Tomato,18,Onion,40,Spinach,87,Chickpeas,364,22,63,168,M,2200
+Misha,Cabbage,25,Peas,81,Frenchbeans,31,Green onion,32,Coriander,23,Mint,70,Indian squash,81,Garlic,149,Spinach,87,Ginger,80,Mint,70,Carrot,41,Green onion,32,Peas,81,25,85,176,F,2000
+Shahab,Indian squash,81,Coriander,23,Bottlegourd,15,Mint,70,Broccoli,34,Garlic,149,Cabbage,25,Green onion,32,Potatoes,77,Onion,40,Radish,16,Peas,81,Bottlegourd,15,Coriander,23,19,71,169,M,2200
+Hani,Peas,81,Tomato,18,Indian squash,81,Olives,120,Garlic,149,Onion,40,Coriander,23,Lemon,29,Okra,33,Eggplant,25,Bottlegourd,15,Ginger,80,Frenchbeans,31,Olives,120,24,84,174,F,2000
+Ali,Zucchini,25,Broccoli,34,Peas,81,Indian squash,81,Corn,86,Bottlegourd,15,Tomato,18,Ginger,80,Zucchini,25,Cabbage,25,Bottlegourd,15,Corn,86,Mint,70,Potatoes,77,20,75,163,M,2200
+Aliza,Mint,70,Eggplant,25,Garlic,149,Frenchbeans,31,Peas,81,Indian squash,81,Spinach,87,Frenchbeans,31,Green onion,32,Coriander,23,Potatoes,77,Bellpepper,26,Spinach,87,Carrot,41,23,49,168,F,2000
+Shakeel,Garlic,149,Zucchini,25,Coriander,23,Indian squash,81,Olives,120,Frenchbeans,31,Cabbage,25,Green onion,32,Lemon,29,Cauliflower,25,Broccoli,34,Ginger,80,Potatoes,77,Lemon,29,19,54,178,M,2200
+Areena,Coriander,23,Frenchbeans,31,Okra,33,Tomatoes,18,Potatoes,77,Cabbage,25,Garlic,149,Broccoli,34,Ginger,80,Corn,86,Potatoes,77,Coriander,23,Green onion,32,Radish,16,18,64,182,F,2000
+Abid,Garlic,149,Coriander,23,Frenchbeans,31,Radish,16,Potatoes,77,Green onion,32,Eggplant,25,Bellpepper,,Cabbage,25,Spinach,87,Green onion,32,Okra,33,Ginger,80,Eggplant,25,20,59,168,M,2200
+Yumna,Cabbage,25,Onion,40,Frenchbeans,31,Mint,70,Zucchini,25,Indian squash,81,Garlic,149,Coriander,23,Green onion,32,Potatoes,77,Frenchbeans,31,Lemon,29,Indian squash,81,Ginger,80,24,75,156,F,2000
+Rehman,Lemon,29,Mint,70,Eggplant,25,Coriander,23,Radish,16,Corn,86,Bottlegourd,15,Zucchini,25,Bellpepper,26,Lemon,29,Ginger,80,Tomatoes,18,Olives,120,Green onion,32,23,80,166,M,2200
+Rameen,Garlic,149,Peas,81,Olives,120,Frenchbeans,31,Coriander,23,Eggplant,25,Indian squash,81,Lemon,29,Spinach,87,Eggplant,25,Radish,16,Ginger,80,Cauliflower,25,Peas,81,20,53,165,F,2000
+Irfan,Eggplant,25,Cabbage,25,Indian squash,81,Okra,33,Broccoli,34,Coriander,23,Tomato,18,Ginger,80,Potatoes,77,Corn,86,Cabbage,25,Green onion,32,Spinach,87,Onion,40,22,82,164,M,2200
+Javeria,Olives,120,Spinach,87,Coriander,23,Green onion,32,Garlic,149,Corn,86,Mint,70,Spinach,87,Onion,40,Coriander,23,Spinach,87,Ginger,80,Carrot,41,Radish,16,23,70,179,F,2000
+Batool,Radish,16,Carrot,41,Cabbage,25,Olives,120,Frenchbeans,31,Coriander,23,Bottlegourd,15,Corn,86,Bellpepper,26,Green onion,32,Potatoes,77,Broccoli,34,Lemon,29,Okra,33,24,53,181,M,2200
+Rida,Indian squash,21,Chickpeas,364,Mint,70,Eggplant,25,Carrot,41,Olives,120,Coriander,23,Indian squash,81,Spinach,87,Ginger,80,Zucchini,25,Potatoes,77,Bellpepper,26,Zucchini,25,21,61,152,F,2000
+Akhtar,Zucchini,25,Okra,33,Corn,86,Coriander,23,Tomato,18,Mint,70,Potatoes,77,Eggplant,25,Green onion,32,Carrot,41,Mint,70,Corn,86,Indian squash,81,Ginger,80,19,58,173,M,2200
+Rubaha ,Garlic,149,Coriander,23,Chickpeas,364,Lemon,29,Carrot,41,Peas,81,Indian squash,81,Broccoli,34,Lemon,29,Potatoes,77,Radish,16,Olives,120,Onion,40,Indian squash,23,22,55,184,F,2000
+Sheikh,Eggplant,25,Zucchini,25,Tomato,18,Mint,70,Coriander,23,Potatoes,77,Eggplant,25,Cauliflower,25,Bottlegourd,15,Broccoli,34,Ginger,80,Frenchbeans,31,Mint,70,Coriander,23,18,49,156,M,2200
+Afeefa,Green onion,32,Mint,70,Coriander,23,Corn,86,Potatoes,77,Eggplant,25,Garlic,149,Potatoes,77,Spinach,87,Indian squash,81,Green onion,32,Cauliflower,25,Eggplant,25,Cabbage,25,20,52,178,F,2000
+Amjad,Zucchini,25,Broccoli,34,Spinach,87,Peas,81,Corn,86,Eggplant,25,Bottlegourd,15,Onion,40,Broccoli,34,Bellpepper,26,Zucchini,25,Ginger,80,Indian squash,81,Spinach,87,21,72,169,M,2200
+Ayesha,Coriander,23,Chickpeas,364,Indian squash,81,Carrot,41,Olives,120,Cabbage,25,Green onion,32,Indian squash,81,Carrot,41,Coriander,23,Radish,16,Eggplant,25,Ginger,80,Frenchbeans,31,23,73,153,F,2000
+Daniyal,Chickpeas,364,Eggplant,25,Zucchini,25,Corn,86,Coriander,23,Garlic,149,Peas,81,Green onion,32,Potatoes,77,Coriander,23,Indian squash,81,Spinach,87,Green onion,32,Olives,120,25,67,183,M,2200
+Hadia ,Garlic,149,Cauliflower,25,Cabbage,25,Potatoes,77,Frenchbeans,31,Chickpeas,364,Coriander,23,Ginger,80,Bottlegourd,15,Ginger,80,Broccoli,34,Indian squash,81,Indian squash,81,Garlic,149,24,83,171,F,2000
+Zafar,Tomato,18,Coriander,23,Garlic,149,Bottlegourd,15,Olives,120,Broccoli,34,Indian squash,81,Peas,81,Corn,86,Bellpepper,26,Potatoes,77,Radish,16,Eggplant,25,Lemon,29,20,76,186,M,2200
+Zaidi,Radish,16,Broccoli,34,Chickpeas,364,Spinach,87,Garlic,149,Zucchini,25,Corn,86,Frenchbeans,31,Green onion,32,Garlic,149,Cabbage,25,Coriander,23,Zucchini,25,Olives,120,20,58,159,M,2200
+Aiman,Coriander,23,Green onion,32,Mint,70,Cabbage,25,Carrot,41,Cauliflower,25,Frenchbeans,31,Lemon,29,Coriander,23,Mint,70,Broccoli,34,Spinach,87,Garlic,149,Green onion,32,18,42,151,F,2000
+Khurram,Corn,86,Garlic,149,Zucchini,25,Frenchbeans,31,Indian squash,81,Coriander,23,Tomato,18,Spinach,87,Cauliflower,25,Bellpepper,26,Garlic,149,Carrot,41,Radish,16,Broccoli,34,25,64,172,M,2200
+Sameen,Broccoli,34,Olives,120,Radish,16,Cabbage,25,Coriander,23,Zucchini,25,Eggplant,25,Peas,81,Radish,16,Cabbage,25,Ginger,80,Lemon,29,Carrot,41,Corn,86,23,65,180,F,2000
+Wajeeha,Mint,70,Coriander,23,Frenchbeans,31,Garlic,149,Onion,40,Carrot,41,Okra,33,Green onion,32,Indian squash,81,Lemon,29,Broccoli,34,Bottlegourd,15,Bellpepper,26,Spinach,87,20,84,160,F,2000
+Siddiqui,Potatoes,77,Frenchbeans,31,Broccoli,34,Coriander,23,Zucchini,25,Cabbage,25,Bottlegourd,15,Broccoli,34,Ginger,80,Garlic,149,Lemon,29,Zucchini,25,Mint,70,Frenchbeans,31,19,57,153,M,2200
+Wareesha,Indian squash,21,Potatoes,77,Coriander,23,Onion,40,Tomato,18,Cabbage,25,Mint,70,Olives,120,Radish,16,Bottlegourd,15,Green onion,32,Lemon,29,Ginger,80,Coriander,23,20,45,164,F,2000
+Jamal,Eggplant,25,Zucchini,25,Cabbage,25,Broccoli,34,Mint,70,Coriander,23,Peas,81,Carrot,41,Spinach,87,Mint,70,Lemon,29,Radish,16,Corn,86,Eggplant,25,23,76,175,M,2200
+Alishba,Okra,33,Tomato,18,Radish,16,Eggplant,25,Spinach,87,Corn,86,Broccoli,34,Frenchbeans,31,Spinach,87,Bellpepper,26,Ginger,80,Green onion,32,Peas,81,Olives,120,24,85,190,F,2000
